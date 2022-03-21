@@ -8,7 +8,7 @@ This repository is for the study "Improved Unsupervised Representation Learning 
 
 # Required libraries
 **Morphontogeny**
-<br>This package has functions that are used in the analysis of the data
+<br>This package has functions that are used in the analysis of the data.
 <br>https://github.com/BioProteanLabs/Morphontogeny
 
 **Sparse Filtering**
@@ -17,3 +17,7 @@ This repository is for the study "Improved Unsupervised Representation Learning 
 <br>Link to the repo: https://github.com/jmetzen/sparse-filtering
 
 **Numpy, Pandas**
+
+# Instructions
+The notebooks for the analysis of the data are in the Notebooks folder.
+<br>The files that could be used for the analyses are in the files folder.
