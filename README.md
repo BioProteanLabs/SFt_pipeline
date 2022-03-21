@@ -10,11 +10,13 @@ This repository is for the study "Improved Unsupervised Representation Learning 
 **Morphontogeny**
 <br>This package has functions that are used in the analysis of the data.
 <br>https://github.com/BioProteanLabs/Morphontogeny
+<br>To install this repo using pip: ```pip install git+https://github.com/BioProteanLabs/Morphontogeny.git```
 
 **Sparse Filtering**
 <br>This is the python package for the Sparse Filtering method.
 <br>Link to the paper: https://papers.nips.cc/paper/2011/file/192fc044e74dffea144f9ac5dc9f3395-Paper.pdf
 <br>Link to the repo: https://github.com/jmetzen/sparse-filtering
+<br>To install this repo using pip: ```pip install sparse_fitering```
 
 **Numpy, Pandas**
 
