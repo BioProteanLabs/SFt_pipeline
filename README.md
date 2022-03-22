@@ -18,7 +18,7 @@ This repository is for the study "Improved Unsupervised Representation Learning 
 <br>Link to the repo: https://github.com/jmetzen/sparse-filtering
 <br>To install this repo using pip: ```pip install sparse_fitering```
 
-**Numpy, Pandas**
+**Numpy, Pandas, SciKit-Learn**
 
 # Instructions
 The notebooks for the analysis of the data are in the Notebooks folder.
